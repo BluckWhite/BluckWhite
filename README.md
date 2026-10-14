@@ -1,16 +1,27 @@
-## Hi there 👋
+# Morning folks
 
-<!--
-**BluckWhite/BluckWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicholas Del Buono, a Computer Engineering B.Sc. graduate from the University of Pisa, currently pursuing my Master's degree in Computer Engineering (Cybersecuriy). 
 
-Here are some ideas to get you started:
+My favourite fields of study are Computer Architectures, Cybersecurity, and Low-level Designs. In a word, I'm in a relationship with hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🎓 **B.Sc. Thesis:** [A modern architectural and programming analisys of Olivetti's Elea9003 Electronic Calculator](https://github.com/BluckWhite/Elea9003). 
+
+### Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%236E4C13.svg?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23B2B7F8.svg?style=for-the-badge&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-%23543978.svg?style=for-the-badge&logoColor=white)
+
+### What I'm looking for
+
+While my primary focus right now is my Master's degree, I am actively looking to expand my hands-on experience in **Hardware Security, Blue-Team InfoSec, and Computer Architecture design**.
+
+If you're working on open-source projects, research, or need an engineer to collaborate with in these fields, feel free to reach out.
+
+As of today, I'm not currently working on a specific project.
+
+### My contacts
+- [LinkedIn](https://www.linkedin.com/in/nicholas-del-buono-ba7272297)
+- [Email](mailto:nicholasdelbuono2004@gmail.com)
