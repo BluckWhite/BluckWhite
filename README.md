@@ -1,6 +1,6 @@
 # Morning folks
 
-I'm Nicholas Del Buono, a Computer Engineering B.Sc. graduate from the University of Pisa, currently pursuing my Master's degree in Computer Engineering (Cybersecuriy). 
+I'm Nicholas Del Buono, a Computer Engineering B.Sc. graduate from the University of Pisa, currently pursuing my Master's degree in Computer Engineering (Cybersecurity). 
 
 My favourite fields of study are Computer Architectures, Cybersecurity, and Low-level Designs. In a word, I'm in a relationship with hardware.
 
