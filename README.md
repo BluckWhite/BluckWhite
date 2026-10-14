@@ -6,7 +6,7 @@ My favourite fields of study are Computer Architectures, Cybersecurity, and Low-
 
   - 🎓 **B.Sc. Thesis:** [A modern architectural and programming analisys of Olivetti's Elea9003 Electronic Calculator](https://github.com/BluckWhite/Elea9003). 
 
-### Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,7 +14,7 @@ My favourite fields of study are Computer Architectures, Cybersecurity, and Low-
 ![Verilog](https://img.shields.io/badge/Verilog-%23B2B7F8.svg?style=for-the-badge&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-%23543978.svg?style=for-the-badge&logoColor=white)
 
-### What I'm looking for
+## What I'm looking for
 
 While my primary focus right now is my Master's degree, I am actively looking to expand my hands-on experience in **Hardware Security, Blue-Team InfoSec, and Computer Architecture design**.
 
@@ -22,6 +22,7 @@ If you're working on open-source projects, research, or need an engineer to coll
 
 As of today, I'm not currently working on a specific project.
 
-### My contacts
-- [LinkedIn](https://www.linkedin.com/in/nicholas-del-buono-ba7272297)
-- [Email](mailto:nicholasdelbuono2004@gmail.com)
+## My contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-del-buono-ba7272297)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasdelbuono2004@gmail.com)
